@@ -31,3 +31,4 @@ spec:
                 secretKeyRef:
                   name: pgpassword
                   key: POSTGRES_PASSWORD
+ 
